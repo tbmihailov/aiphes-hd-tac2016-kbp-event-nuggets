@@ -1,0 +1,3 @@
+#LDC2016E71_TAC_KBP_2016_Eval_Core_Set_Rich_ERE_Annotation
+
+Extract the LDC2016E71 here
